@@ -17,6 +17,7 @@ public class Test_newGroup {
 		Group group2 = new Group("2nd Group");
 		groupList.newGroup(group);
 		groupList.newGroup(group2);
+		printer(groupList);
 	}
 	public static void printer(GroupList groupList){
 		for (Group group : groupList.getGroups()) {

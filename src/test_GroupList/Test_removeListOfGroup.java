@@ -16,7 +16,6 @@ package test_GroupList;
  */
 import java.util.ArrayList;
 import java.util.List;
-
 import contectCore.Group;
 import contectCore.GroupList;
 
